@@ -148,6 +148,9 @@ span{
 .aboutmemark:hover{
     text-decoration: underline yellow;
 }
+.aboutmetxt p{
+    padding: 0px 5%;
+}
 .aboutmetxt p mark{
     background-color: rgb(29, 29, 29);
     color: yellow;
@@ -205,6 +208,7 @@ span{
     width: 100%;
     display: none;
     color: white;
+    padding: 0px 5%;
 }
 .tab_header:checked+.tab_label::after{
     width: 100%;
